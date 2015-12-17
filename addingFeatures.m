@@ -1,4 +1,4 @@
-function addingFeatures_2( )
+function addingFeatures( )
 
 data_matrix = csvread('ctr_charan_train_test.csv');
 [row,col] = size(data_matrix);
